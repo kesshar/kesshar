@@ -84,7 +84,7 @@ An AI-powered system for automated document analysis and compliance risk assessm
 - Generates **evidence-backed and traceable audit decisions** instead of relying
   solely on LLM-generated conclusions.
 
-[🔗 View Project](#)
+[🔗 View Project](https://github.com/kesshar/Autonomous-Compliance-and-Document-Risk-Auditor)
 
 ---
 
@@ -101,7 +101,7 @@ workflows and real-time collaboration.
   task/report workflows.
 - Designed REST APIs and integrated frontend and backend services end-to-end.
 
-[🔗 View Project](#)
+[🔗 View Project](https://github.com/kesshar/HRMS)
 
 ---
 
@@ -149,9 +149,9 @@ Backend Systems · Open Source · Problem Solving**
 
 📧 **Email:** keshavpradeepsharma@gmail.com
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/keshav-sharma09/)
 
-💻 **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+💻 **GitHub:** [kesshar](https://github.com/kesshar)
 
 ---
 
